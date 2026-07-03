@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://gubug-teposeliro.vercel.app"),
+  verification: {
+  google: "BWIUV9mXa6v7vWZgSgxT0uHE73Dk938ed8cbH6PVlqk",
+},
 
   title: "Gubug Teposeliro | Kuliner & Wedangan Khas Jawa",
 
