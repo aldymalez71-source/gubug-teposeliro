@@ -6,7 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-
     sitemap: "https://gubug-teposeliro.vercel.app/sitemap.xml",
   };
 }
