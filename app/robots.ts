@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
     },
 
-    sitemap: "https://gubugteposeliro.com/sitemap.xml",
+    sitemap: "https://gubug-teposeliro.vercel.app/sitemap.xml",
   };
 }
